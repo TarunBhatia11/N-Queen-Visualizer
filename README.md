@@ -2,6 +2,8 @@
 
 A sleek and interactive web-based visualizer to demonstrate the **N-Queen Problem**, a famous backtracking algorithm in computer science and artificial intelligence.
 
+live check: https://nqueenvisualizerrr.netlify.app/
+
 ## 🧠 About the Project
 
 The **N-Queen Problem** involves placing N chess queens on an N×N chessboard so that no two queens threaten each other. This project helps users visualize the backtracking solution step-by-step and view all possible board arrangements for a given size.
